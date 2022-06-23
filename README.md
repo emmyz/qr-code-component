@@ -14,7 +14,7 @@
 
 ### Links
 
-Project URL: [QR Code Component](https://your-solution-url.com)
+Project URL: [QR Code Component](https://emmyz.github.io/qr-code-component/)
 
 ### Built with
 
